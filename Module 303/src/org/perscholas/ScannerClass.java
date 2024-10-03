@@ -1,3 +1,5 @@
+package org.perscholas;
+
 import java.util.Scanner;
 
 public class ScannerClass {

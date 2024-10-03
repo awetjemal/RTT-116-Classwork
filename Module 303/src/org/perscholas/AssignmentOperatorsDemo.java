@@ -1,3 +1,5 @@
+package org.perscholas;
+
 public class AssignmentOperatorsDemo {
     public static void main(String[] args) {
         //assigning primitive values
