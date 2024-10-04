@@ -1,4 +1,4 @@
-package lesson_303_03;
+package lesson_303_03.glab_303_03_01;
 
 public class CharacterDemo {
     public static void main(String[] args) {
